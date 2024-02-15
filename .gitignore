@@ -1,0 +1,8 @@
+*
+!README.md
+!.gitignore
+!*.cpp
+!*.swift
+!*.py
+!*.rs
+!*.c
